@@ -1,0 +1,13 @@
+products:
+   src/main/scala/AppMain.scala -> build/classes/scala/main/AppMain$.class
+   src/main/scala/AppMain.scala -> build/classes/scala/main/AppMain$delayedInit$body.class
+   src/main/scala/AppMain.scala -> build/classes/scala/main/AppMain.class
+binary dependencies:
+   src/main/scala/AppMain.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/AppMain.scala -> /Users/ktangwon/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.7/18c09ad08ec783f5074f4a0d6308a78759000cb1/scala-library-2.12.7.jar
+source dependencies:
+external dependencies:
+class names:
+   src/main/scala/AppMain.scala -> AppMain
+   src/main/scala/AppMain.scala -> AppMain$
+   src/main/scala/AppMain.scala -> AppMain$delayedInit$body

@@ -1,0 +1,8 @@
+[package]
+name = "haystack"
+version = "0.1.0"
+
+[dependencies]
+rayon = "1.0.3"
+itertools = "0.7"
+chashmap = "2.2.0"

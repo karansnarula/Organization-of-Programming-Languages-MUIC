@@ -1,0 +1,6 @@
+it = iter([4,1,5])
+print(next(it))
+print(next(it))
+print(next(it))
+# print(next(it))
+print(range(5))

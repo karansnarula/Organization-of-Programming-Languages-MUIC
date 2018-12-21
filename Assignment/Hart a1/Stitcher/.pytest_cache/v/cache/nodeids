@@ -1,0 +1,6 @@
+[
+  "test_stitcher.py::TestStitcher::test_empty",
+  "test_stitcher.py::TestStitcher::test_file_not_found",
+  "test_stitcher.py::TestStitcher::test_invalid_input",
+  "test_stitcher.py::TestStitcher::test_iteration"
+]

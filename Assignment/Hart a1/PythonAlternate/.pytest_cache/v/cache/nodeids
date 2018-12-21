@@ -1,0 +1,4 @@
+[
+  "test_python_alternate.py::TestPythonAlternate::test_generator_finite",
+  "test_python_alternate.py::TestPythonAlternate::test_generator_infinite"
+]

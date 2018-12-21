@@ -1,0 +1,7 @@
+[package]
+name = "Lecture20"
+version = "0.1.0"
+authors = ["admin"]
+
+[dependencies]
+rayon = "1.0.3"

@@ -1,0 +1,8 @@
+[
+  "test_dovetail.py::TestDovetail::test_empty",
+  "test_dovetail.py::TestDovetail::test_finite",
+  "test_dovetail.py::TestDovetail::test_finite_single",
+  "test_dovetail.py::TestDovetail::test_infinite",
+  "test_dovetail.py::TestDovetail::test_infinite_single",
+  "test_dovetail.py::TestDovetail::test_invalid"
+]

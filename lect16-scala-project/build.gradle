@@ -1,0 +1,23 @@
+plugins {
+	id 'scala'
+	id 'application'
+}
+
+wrapper {
+    gradleVersion = '4.10' 
+}
+
+repositories {
+    jcenter()
+    mavenCentral()
+
+}
+
+dependencies {
+    compile 'org.scala-lang:scala-library:2.12.7'
+    compile 'org.apache.httpcomponents:httpclient:4.5.6'
+    compile 'org.apache.httpcomponents:httpasyncclient:4.1.4'
+}
+
+mainClassName = 'AppMain'
+

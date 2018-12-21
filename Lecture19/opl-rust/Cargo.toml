@@ -1,0 +1,9 @@
+[package]
+name = "opl-rust"
+version = "0.1.0"
+authors = ["kanokpatai"]
+
+[dependencies]
+reqwest = "0.9.4"
+select = "0.4.2"
+url = "1.7.2"

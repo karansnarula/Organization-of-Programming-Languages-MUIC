@@ -1,0 +1,4 @@
+[
+  "test_memo_decor.py::TestMemoization::test_fib",
+  "test_memo_decor.py::TestMemoization::test_n_count_r"
+]

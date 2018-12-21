@@ -1,0 +1,7 @@
+[
+  "test_permutations.py::TestPermutations::test_permutations_1",
+  "test_permutations.py::TestPermutations::test_permutations_10",
+  "test_permutations.py::TestPermutations::test_permutations_2",
+  "test_permutations.py::TestPermutations::test_permutations_3",
+  "test_permutations.py::TestPermutations::test_permutations_4"
+]
